@@ -12,43 +12,7 @@
     
     
     <item>
-      <title>Instalar Tema</title>
-      <link>https://martinsantelicesmid.github.io/docs/instalar-tema/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://martinsantelicesmid.github.io/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
-    
-    <item>
-      <title>Configuración</title>
-      <link>https://martinsantelicesmid.github.io/docs/configuracion/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://martinsantelicesmid.github.io/docs/configuracion/</guid>
-      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://martinsantelicesmid.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://martinsantelicesmid.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://martinsantelicesmid.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://martinsantelicesmid.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Entrega 1</title>
+      <title>Entrega 1 Planimetrias</title>
       <link>https://martinsantelicesmid.github.io/docs/entrega-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -57,7 +21,7 @@
     </item>
     
     <item>
-      <title>Entrega 2</title>
+      <title>Entrega 2 Mecanizado CNC</title>
       <link>https://martinsantelicesmid.github.io/docs/entrega-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -66,12 +30,12 @@
     </item>
     
     <item>
-      <title>Objetivos del Curso</title>
-      <link>https://martinsantelicesmid.github.io/docs/objetivos/</link>
+      <title>Entrega 3 Modelo y fundición</title>
+      <link>https://martinsantelicesmid.github.io/docs/entrega-3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://martinsantelicesmid.github.io/docs/objetivos/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+      <guid>https://martinsantelicesmid.github.io/docs/entrega-3/</guid>
+      <description>mecanizado respaldo</description>
     </item>
     
   </channel>
